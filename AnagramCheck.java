@@ -19,7 +19,7 @@ public class AnagramCheck {
         else{
              System.out.println("The Strings are not Anagrams");
         }
-
+       sc.close();
     }
     
 }
