@@ -5,7 +5,7 @@ public class MostFrequentChar {
         System.out.println("Enter a String: ");
         String str = sc.nextLine();
         int maxcount=0;
-        char mostFrequent='';
+        char mostFrequent=' ';
         for(int i=0;i<str.length();i++){
             char ch = str.charAt(i);
             int count=0;
