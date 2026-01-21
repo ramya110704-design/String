@@ -14,6 +14,7 @@ public class Capitalizeword {
         }
         System.out.println("After Capitalization: ");
         System.out.println(result.trim());
+        sc.close();
     }
     
 }
