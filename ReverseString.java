@@ -14,6 +14,7 @@ public class ReverseString {
             j--;
         }
         System.out.println("Reversed String: "+ new String(ch));
+        sc.close();
     }
     
 }
