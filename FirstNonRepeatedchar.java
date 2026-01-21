@@ -22,6 +22,7 @@ public class FirstNonRepeatedchar {
         if(!found){
             System.out.println("No Non-Repeated Character found");
         }
+        sc.close();
     }
     
 }
